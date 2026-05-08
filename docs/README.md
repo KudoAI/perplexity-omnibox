@@ -181,32 +181,6 @@ Simply type `@perplexity` followed by your query in the address bar:
 
 ---
 
-## 💖 Sponsors
-
-<div align="center">
-
-<br>
-
-<a href="https://www.warp.dev/chatgptjs" target="_blank">
-  <img 
-    src="https://assets.chatgptjs.org/images/banners/warp/banner-1500x500.png?v=476e837" 
-    width="650" 
-    alt="Warp - The AI Terminal"
-  />
-</a>
-
-<br>
-
-### **[Warp][link-warp]** — The AI terminal for developers
-
-*Available for macOS, Linux & Windows*
-
-<br>
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -241,7 +215,7 @@ Made with ❤️ by [Adam Lui][link-author]
      BADGE DEFINITIONS
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-[badge-users]: https://img.shields.io/badge/Users-6.7K-2563eb?style=for-the-badge&logo=weightsandbiases&logoColor=white
+[badge-users]: https://img.shields.io/badge/Users-6.6K-2563eb?style=for-the-badge&logo=weightsandbiases&logoColor=white
 [badge-rating]: https://img.shields.io/chrome-web-store/stars/ckhgddjdjkphbaediggjdddjdjgkalom?style=for-the-badge&logo=googlechrome&logoColor=white&color=10b981&label=Chrome
 [badge-jsdelivr]: https://img.shields.io/jsdelivr/gh/hm/KudoAI/perplexity-omnibox?style=flat-square&logo=jsdelivr&logoColor=white&color=2bbbd8&label=jsDelivr
 [badge-codefactor]: https://img.shields.io/codefactor/grade/github/KudoAI/perplexity-omnibox?style=flat-square&logo=codefactor&logoColor=white&color=b3ff68&label=Code%20Quality
