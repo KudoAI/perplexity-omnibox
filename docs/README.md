@@ -1,3 +1,10 @@
+***
+
+> [!IMPORTANT]  
+> This project has moved to **<https://codeberg.org/adamlui/perplexity-omnibox>**
+
+***
+
 <!-- 
 ╔══════════════════════════════════════════════════════════════════════════════════╗
 ║                            PERPLEXITY OMNIBOX                                    ║
